@@ -13,7 +13,7 @@ class MainScreen extends StatefulWidget {
 class _MainScreenState extends State<MainScreen> {
   List<Item> itemList = [
     Item(
-        name: "Banana",
+        name: "DOG",
         price: 5.7,
         image:
             "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvaXMxNzk0My1pbWFnZS1qb2I2MjFfMS5wbmc.pn"),
